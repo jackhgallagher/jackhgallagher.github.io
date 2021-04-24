@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Mathematics"
+permalink: /mathematics/
 author_profile: true
 ---
 
