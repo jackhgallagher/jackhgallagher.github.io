@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Mathematics"
+    url: /mathematics/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Statistics"
+    url: /statistics/    
 
-  - title: "Teaching"
+  - title: "Sports"
     url: /teaching/    
     
   - title: "Portfolio"
